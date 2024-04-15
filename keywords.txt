@@ -1,0 +1,32 @@
+###########################################
+# Syntax Coloring Map For DHT_Basic
+###########################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DHT_STATUS
+
+DHT_Base	KEYWORD1	DHT_Base
+DHT11 KEYWORD1	DHT11 
+DHT22 KEYWORD1	DHT22
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setPin KEYWORD2
+setPinInputMode
+read
+read2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DATA_BUS_MAX LITERAL1
+DHT_ERR_DURATION LITERAL1
+DHT_SELF_ERRCODE LITERAL1
+DHT_COMBINE_ERR LITERAL1
+TO_DHT_STS LITERAL1
